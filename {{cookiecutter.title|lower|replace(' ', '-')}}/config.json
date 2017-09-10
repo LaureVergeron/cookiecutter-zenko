@@ -1,0 +1,25 @@
+{
+    "title": "Zenko documentation",
+    "file_name": "ZenkoDoc",
+    "second_title": "Comprehensive documentation to Zenko",
+    "chapters":[
+        "What_is_Zenko",
+        "Zenko_Modules",
+        "Zenko_Testing_Stack",
+        "Zenko_Production_Stack",
+        "Cloudserver_Comprehensive_Documentation",
+        "Utapi_Comprehensive_Documentation"
+    ],
+    "lang": "english",
+    "company": "Scality",
+    "year": "2017",
+    "title_page": "true",
+    "toc": "true",
+    "tof": "true",
+    "template": "basic",
+    "version": "auto",
+    "date": "true",
+    "git": {
+    "foliant": "git@github.com:LaureVergeron/Zenko-1.git"
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Zenko Documentation",
+  "second_title": "Scality's MultiCloud Data Controller",
+  "year": "{% now 'utc', '%Y' %}",
+  "show_date": ["true"],
+  "company": "Scality",
+  "lang": ["english"],
+  "show_title_page": ["true"],
+  "show_toc": ["true"],
+  "show_tof": ["true"],
+  "template": "basic",
+  "version": "auto",
+  "_extensions": ["jinja2_time.TimeExtension"],
+  "_copy_without_render": [
+    "*.tex"
+  ]
+}
