@@ -2,7 +2,7 @@
 
 # List
 
-## /!\ WIP /!\
+## WIP 
 
  * Cloudserver
  * UTAPI

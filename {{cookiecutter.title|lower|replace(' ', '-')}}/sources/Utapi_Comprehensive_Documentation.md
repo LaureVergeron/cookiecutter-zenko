@@ -1,2 +1,2 @@
-{% raw %} {{ <https://github.com/LaureVergeron/Utapi.git>README.md }} {% endraw %}
+{% raw %}{{ <https://github.com/LaureVergeron/Utapi.git>README.md }}{% endraw %}
 
