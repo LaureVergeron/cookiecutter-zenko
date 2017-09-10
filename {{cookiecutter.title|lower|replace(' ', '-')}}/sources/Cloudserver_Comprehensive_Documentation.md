@@ -1,2 +1,2 @@
-{% raw %} {{ <https://github.com/scality/S3.git>README.md }} {% endraw %}
+{% raw %} {{ <https://github.com/LaureVergeron/S3.git>README.md }} {% endraw %}
 
